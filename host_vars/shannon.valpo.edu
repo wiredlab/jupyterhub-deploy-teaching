@@ -110,6 +110,7 @@ conda_packages:
   - pymc3
   - pytorch
   - torchvision
+  - requests-cache  # 490
 
 pip_packages:
   - brewer2mpl
