@@ -16,7 +16,6 @@ home_dir: /home/VALPO.EDU
 # Users with administrative privileges.
 jupyterhub_admin_users:
   - dan
-  - dwhite8
 
 # Whitelist of jupyterhub users.
 jupyterhub_users:
